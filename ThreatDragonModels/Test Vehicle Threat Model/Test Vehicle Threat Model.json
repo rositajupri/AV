@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Test Vehicle Threat Model",
+    "owner": "Rosita",
+    "description": "A high level system description of AV"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Rosita1"
+  }
+}
